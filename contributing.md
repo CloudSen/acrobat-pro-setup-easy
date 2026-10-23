@@ -250,3 +250,6 @@
 > 🧭 **Editor's note:** everything above is tested on the current 2026 build. If a step looks different on your machine, open an issue.
 
 *acrobat-pro-setup-easy · 更新于 2026-10-23 · 基于 MIT 许可证共享*
+
+
+Updated 2026-10-23.
