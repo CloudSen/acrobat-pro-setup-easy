@@ -1,6 +1,6 @@
 # Adobe Acrobat Pro DC 2026 破解版 — 免费下载完整版
 
-![Version](https://img.shields.io/badge/Version-2026-blue?style=flat-square) ![Price](https://img.shields.io/badge/Price-Free-success?style=flat-square) ![Type](https://img.shields.io/badge/Type-PDF 处理软件-E53935?style=flat-square)
+![Version](https://img.shields.io/badge/Version-2026-blue?style=flat-square) ![Price](https://img.shields.io/badge/Price-Free-success?style=flat-square) ![Type](https://img.shields.io/badge/Type-PDF_处理软件-E53935?style=flat-square)
 
 免费下载 **Adobe Acrobat Pro DC 2026** 中文破解版 — 全部功能解锁，无需账号，无需联网验证。本页提供完整安装包与详细图文教程，五分钟即可完成安装。**100% 免费，无试用期限。**
 
@@ -250,6 +250,3 @@
 > 🧭 **Editor's note:** everything above is tested on the current 2026 build. If a step looks different on your machine, open an issue.
 
 *acrobat-pro-setup-easy · 更新于 2026-10-23 · 基于 MIT 许可证共享*
-
-
-Updated 2026-10-23.
